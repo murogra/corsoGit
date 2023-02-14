@@ -7,4 +7,7 @@
 	return m1 - m2;
   }
 
+ function moltiplicazione (m1,m2) {
+	return m1 * m2;
+  }
 ?>
