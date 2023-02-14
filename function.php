@@ -10,4 +10,10 @@
  function moltiplicazione (m1,m2) {
 	return m1 * m2;
   }
+
+ function divisione (m1,m2) {
+	return m1 / m2;
+  }
+
+
 ?>
