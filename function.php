@@ -1,5 +1,7 @@
 <?php 
-  function addizione (m1,m2) {
+/* modifica per github */
+
+function addizione (m1,m2) {
 	return m1 + m2;
   }
 
