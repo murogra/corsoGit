@@ -1,6 +1,6 @@
 <?php 
-/* modifica per github */
-
+/* modifica per github  */
+/* modifica di lello */
 function addizione (m1,m2) {
 	return m1 + m2;
   }
