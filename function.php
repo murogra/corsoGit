@@ -1,6 +1,5 @@
 <?php 
-/* modifica per github  */
-/* modifica di lello */
+
 function addizione (m1,m2) {
 	return m1 + m2;
   }
@@ -9,15 +8,4 @@ function addizione (m1,m2) {
 	return m1 - m2;
   }
 
- function moltiplicazione (m1,m2) {
-	return m1 * m2;
-  }
-
- function divisone (m1,m2) {
-	if (m2 !== 0) {
-	   return m1 / m2;
-	}else {
-	   return "Error";
-	}
-  }
 ?>
